@@ -1,0 +1,6 @@
+{ "type" : "cycle", "value":
+  { "type" : "concat", "values": [
+      { "type" : "end", "timeout": 0.5, "value" : 128 },
+      { "type" : "end", "timeout": 0.5}
+  ]}
+}
